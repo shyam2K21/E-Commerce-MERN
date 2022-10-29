@@ -6,16 +6,16 @@ const userRouter = require('./routes/userRouter');
 const productRouter = require('./routes/productRouter');
 const orderRouter = require('./routes/orderRouter');
 
-const cors = require("cors");
+// const cors = require("cors");
 
 const app = express();
 
-app.use(  cors({
-    origin: "http://localhost:3000",
-    optionsSuccessStatus: 200,
-    credentials: true,
-  })
-);
+// app.use(cors({
+//     origin: "http://localhost:3000",
+//     optionsSuccessStatus: 200,
+//     credentials: true,
+//   })
+// );
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
