@@ -12,12 +12,12 @@ const {MONGODB_URI} = require("./../config");
 
 const app = express();
 
-// app.use(cors({
-//     origin: "http://localhost:3000",
-//     optionsSuccessStatus: 200,
-//     credentials: true,
-//   })
-// );
+app.use(cors({
+    origin: "https://skandart.herokuapp.com/",
+    optionsSuccessStatus: 200,
+    credentials: true,
+  })
+);
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
