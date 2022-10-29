@@ -21,7 +21,8 @@ const app = express();
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
-mongoose.connect(MONGODB_URI || 'mongodb://127.0.0.1:27017/mern_ecommerce', {
+console.log(MONGODB_URI);
+mongoose.connect('mongodb+srv://shyam_sai:shyam1234@cluster0.dtcm1jk.mongodb.net/?retryWrites=true&w=majority' || 'mongodb://127.0.0.1:27017/mern_ecommerce', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
