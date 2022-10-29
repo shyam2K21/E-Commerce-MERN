@@ -12,7 +12,8 @@
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
 
   ## Table of Content
- 
+  
+  * [ Screenshots ](#Screenshots)  
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
   * [ Technologies ](#Technologies)
@@ -23,6 +24,16 @@
   * [ Author Contact ](#Author-Contact)
   * [ License ](#License)
   #
+
+  ## Screenshots
+  
+  ![s1](https://user-images.githubusercontent.com/91985342/198839323-1e9d2249-8300-4cbe-9da4-30560bb08018.png)
+  ![image](https://user-images.githubusercontent.com/91985342/198839373-1fbf9a2a-fdb0-4e43-9f00-2d2c1c4cd5a1.png)
+![image](https://user-images.githubusercontent.com/91985342/198839423-26d3e174-f751-4f1a-9c14-e0cdcb39bcb3.png)
+![image](https://user-images.githubusercontent.com/91985342/198839454-88dfe9fd-85cc-4178-826c-0c2ce868739f.png)
+![image](https://user-images.githubusercontent.com/91985342/198839478-d0003687-4424-4991-9cbb-16976ba8e010.png)
+![image](https://user-images.githubusercontent.com/91985342/198839505-ce069ca8-9db5-4709-9ba9-d0aae64d0ca7.png)
+
 
   ## Project Objective
   * To build a responsive fully functional Ecommerce application that allows the sellers to save, retrieve and delete data like products, orders and buyers/users and the buyers to select items, save shopping carts and complete payment. 
@@ -53,9 +64,6 @@
   ## Credits and Reference
   The following links have helped me with this project. <br> [React Icons](https://react-icons.github.io/react-icons/) <br>  [mongodb.com](https://www.mongodb.com/)<br>  [Heroku](https://heroku.com) <br> [PayPal Developer Sandbox account](https://developer.paypal.com/developer/accounts/) <br> [Basir YouTube Vidoes](https://www.youtube.com/watch?v=TRCDsB9i3bI)
 
-
-  ## Tests
-  npm test
 
   <hr>
  
