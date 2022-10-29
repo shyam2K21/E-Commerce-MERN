@@ -6,6 +6,8 @@ const userRouter = require('./routes/userRouter');
 const productRouter = require('./routes/productRouter');
 const orderRouter = require('./routes/orderRouter');
 
+const {MONGODB_URI} = require("./../config");
+
 // const cors = require("cors");
 
 const app = express();
@@ -19,7 +21,7 @@ const app = express();
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/mern_ecommerce', {
+mongoose.connect(MONGODB_URI || 'mongodb://127.0.0.1:27017/mern_ecommerce', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
