@@ -12,8 +12,7 @@
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
 
   ## Table of Content
-  * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots-Demo)
+ 
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
   * [ Technologies ](#Technologies)

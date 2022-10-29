@@ -5,7 +5,17 @@ const mongoose = require('mongoose');
 const userRouter = require('./routes/userRouter');
 const productRouter = require('./routes/productRouter');
 const orderRouter = require('./routes/orderRouter');
+
+const cors = require("cors");
+
 const app = express();
+
+app.use(  cors({
+    origin: "http://localhost:3000",
+    optionsSuccessStatus: 200,
+    credentials: true,
+  })
+);
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
@@ -13,6 +23,8 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/mern_ecom
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
+}, ()=> {
+    console.log("mongoDB running")
 });
 
 const PORT = process.env.PORT || 8080;

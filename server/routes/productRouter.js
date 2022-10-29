@@ -19,6 +19,8 @@ productRouter.get(
 // get all products /api/products/
 productRouter.get('/', expressAsyncHandler(async (req, res) => {
     const products = await Product.find({});
+    console.log("In products")
+    console.log(products)
     res.send( products );
 }));
 
