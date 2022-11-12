@@ -24,12 +24,21 @@
 
   ## Screenshots
   
-  ![s1](https://user-images.githubusercontent.com/91985342/198839323-1e9d2249-8300-4cbe-9da4-30560bb08018.png)
-  ![image](https://user-images.githubusercontent.com/91985342/198839373-1fbf9a2a-fdb0-4e43-9f00-2d2c1c4cd5a1.png)
-![image](https://user-images.githubusercontent.com/91985342/198839423-26d3e174-f751-4f1a-9c14-e0cdcb39bcb3.png)
-![image](https://user-images.githubusercontent.com/91985342/198839454-88dfe9fd-85cc-4178-826c-0c2ce868739f.png)
-![image](https://user-images.githubusercontent.com/91985342/198839478-d0003687-4424-4991-9cbb-16976ba8e010.png)
-![image](https://user-images.githubusercontent.com/91985342/198839505-ce069ca8-9db5-4709-9ba9-d0aae64d0ca7.png)
+  ![z](https://user-images.githubusercontent.com/91985342/201458607-01c09ab0-c9d9-45ec-8dba-c6a55208d39c.jpg)
+  ![x](https://user-images.githubusercontent.com/91985342/201458658-3736cd46-3c31-4e69-8cff-fa9e63c81313.jpg)
+  ![image](https://user-images.githubusercontent.com/91985342/201458689-4ed17efd-7aec-4c6e-a576-4ba94d29e8c0.png)
+![image](https://user-images.githubusercontent.com/91985342/201458718-c52bdfa0-49f7-4f85-b2b5-c162548595e3.png)
+![image](https://user-images.githubusercontent.com/91985342/201458734-6d95e7af-d30e-4071-ae48-9a7d2960e125.png)
+![image](https://user-images.githubusercontent.com/91985342/201458745-5a8f7394-fbc7-4b92-8fc0-4eaeb94c38e9.png)
+![image](https://user-images.githubusercontent.com/91985342/201458754-f5bbc7f1-ef81-443a-bcd2-ba319877f408.png)
+![image](https://user-images.githubusercontent.com/91985342/201458772-58f2b600-39f8-4aaa-b30b-9d7ff83c916b.png)
+![image](https://user-images.githubusercontent.com/91985342/201458800-40d191f3-3c1f-42c7-b19f-6d4cf31ab60f.png)
+![image](https://user-images.githubusercontent.com/91985342/201458806-f8ecf601-57ae-494b-8fa7-15609415126c.png)
+![image](https://user-images.githubusercontent.com/91985342/201458818-64dfe1cc-a624-41a7-b2c6-8af168c91bf2.png)
+![image](https://user-images.githubusercontent.com/91985342/201458825-ec87c614-bf3f-455d-a066-3961caf345d4.png)
+
+
+
 
 
 ## Tutorial
