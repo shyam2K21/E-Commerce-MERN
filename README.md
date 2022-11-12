@@ -10,6 +10,7 @@
   ## Table of Content
   
   * [ Screenshots ](#Screenshots)  
+  * [ Tutorial ](#Tutorial)  
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
   * [ Technologies ](#Technologies)
@@ -30,6 +31,10 @@
 ![image](https://user-images.githubusercontent.com/91985342/198839478-d0003687-4424-4991-9cbb-16976ba8e010.png)
 ![image](https://user-images.githubusercontent.com/91985342/198839505-ce069ca8-9db5-4709-9ba9-d0aae64d0ca7.png)
 
+
+## Tutorial
+
+https://youtu.be/pa40bXANmM4
 
   ## Project Objective
   * To build a responsive fully functional Ecommerce application that allows the sellers to save, retrieve and delete data like products, orders and buyers/users and the buyers to select items, save shopping carts and complete payment. 
