@@ -17,9 +17,8 @@
   * [ Installation ](#Installation)
   * [ Usage ](#Usage)
   * [ Credits and Reference ](#Credits-and-Reference)
-  * [ Tests ](#Tests)
-  * [ Author Contact ](#Author-Contact)
-  * [ License ](#License)
+  
+ 
   #
 
   ## Screenshots
