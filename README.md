@@ -11,6 +11,7 @@
   
   * [ Screenshots ](#Screenshots)  
   * [ Tutorial ](#Tutorial)  
+  * [ Deploy ](#Deploy)
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
   * [ Technologies ](#Technologies)
@@ -43,6 +44,9 @@
 ## Tutorial
 
 https://youtu.be/pa40bXANmM4
+
+## Deploy
+Deployed Link on Heroku: https://skandart.herokuapp.com/
 
   ## Project Objective
   * To build a responsive fully functional Ecommerce application that allows the sellers to save, retrieve and delete data like products, orders and buyers/users and the buyers to select items, save shopping carts and complete payment. 
